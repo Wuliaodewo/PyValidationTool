@@ -1,0 +1,29 @@
+PyValidationTool package
+========================
+
+Submodules
+----------
+
+PyValidationTool.replaceSensitiveWords module
+---------------------------------------------
+
+.. automodule:: PyValidationTool.replaceSensitiveWords
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+PyValidationTool.validator module
+---------------------------------
+
+.. automodule:: PyValidationTool.validator
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: PyValidationTool
+   :members:
+   :undoc-members:
+   :show-inheritance:
